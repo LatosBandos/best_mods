@@ -97,9 +97,9 @@ balance_info: https://drive.google.com/file/d/1juZJA8yt4JFhADbTvDODqmu2yQMkg0Dg/
 
 > **Dungeon Now Loading** — добавляет 4 больших подземелья в игру, в каждом из которых в конце будет босс (Content)
 
-> **Dungeons and Taverns** — добавляет много структур с пилладжерами на поверхности и под землей, включая данжи (Worldgen)
+> **Dungeons and Taverns** — добавляет много структур с пилладжерами на поверхности и под землей, включая данжи, рекомендуется ставить к нему все аддоны (Worldgen)
 
-> **Dungeons Content** — переносит почти весь контент в виде мобов и биомов из игры Minecraft Dungeons в Minecraft (Content)
+> **Dungeons+** — добавляет несколько новых данжей, которые основаны на биоме, в котором находятся, очень гармонично вписываются в игру (Content)
 
 > **Durability tooltip** — видно прочность инструмента в числах (QoL)
 
@@ -299,6 +299,8 @@ balance_info: https://drive.google.com/file/d/1juZJA8yt4JFhADbTvDODqmu2yQMkg0Dg/
 
 > **Memory Leak Fix** - фиксит утечки памяти в больших сборках (Optimization)
 
+> **MobStacker** - сильно повышает производительность путем складывания рядом находящихся одинаковых мобов в одного, при этом можно настроить будет ли у такого моба хп умноженное на количество объединенных в нем мобов или нет (Optimization)
+
 > **Modern Industrialization** - очень Globalьный техно мод, который добавляет свою систему прогрессии по игре, кучу реально полезных механизмов и способов автоматизации (Content)
 
 > **Modern Industrialization Sound Addon** - теперь почти каждое действие мода modern industrialization имеет звуковой эффект (QoL)
@@ -453,6 +455,8 @@ balance_info: https://drive.google.com/file/d/1juZJA8yt4JFhADbTvDODqmu2yQMkg0Dg/
 > **Table Of Experience** – добавляет стол, способный разбирать ненужные предметы на пузырьки с опытом (QoL)
 
 > **Tax's Tree Giant** – добавляет в каждый биом, имеющий деревья, свою разновидность огромного дерева (которые лучше, чем твой ебаный мод на дуб, Саня) (Visual)
+
+> **Tan's huge trees** - еще один мод на огромные деревья, только теперь они спаунятся очень часто и во всех биомах (WorldGen)
 
 > **Terra Entity** – добавляет в игру некоторых боссов из игры Terraria (и также Calamity мода), все они хорошо проработаны и анимированы (Content)
 
