@@ -513,6 +513,8 @@ balance_info: https://drive.google.com/file/d/1juZJA8yt4JFhADbTvDODqmu2yQMkg0Dg/
 
 > **What Durability?** – убирает возможность потери прочности у любых предметов, которые её имеют (Gameplay)
 
+> **What Are They Up To** – добавляет игроку анимацию, если он зашел в инвентарь, что-то печатает или просто стоит афк (QoL, Visual)
+
 > **Wthit** – показывает название блока и из какого он мода (QoL)
 
 ## (X)
