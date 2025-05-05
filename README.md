@@ -79,6 +79,8 @@ balance_info: https://drive.google.com/file/d/1juZJA8yt4JFhADbTvDODqmu2yQMkg0Dg/
 
 > **Customizable Elytra** — можно красить элитры (Visual)
 
+> **Critters & Cryptids** — добавляет в игру немного причудливых созданий, которые хорошо дополняют все измерения игры (контент)
+
 ## (D)
 
 > **Damage Numbers** — самый адекватный мод на показ урона по мобам, потому что урон хорошо видно даже издалека (QoL)
