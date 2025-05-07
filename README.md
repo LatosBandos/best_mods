@@ -3,6 +3,7 @@ balance_info: https://drive.google.com/file/d/1juZJA8yt4JFhADbTvDODqmu2yQMkg0Dg/
 # Моды
 
 ## (A)
+
 Actually Unbreaking (QoL, Gameplay)
 > Теперь зачарование прочности делает оружие неломаемым
 
@@ -95,6 +96,12 @@ Clumps (QoL, Optimization)
 
 Configured (QoL)
 > Позволяет изменять конфиг модов прямо в игре, только для Forge
+
+Connector Extras (QoL)
+> Позволяет смотреть рецепты портируемых на forge модов с помощью Sinytra Connector
+
+>*примечание:* ОБЯЗАТЕЛЕН ВО ВСЕХ СБОРКАХ С SINYTRA CONNECTOR
+
 
 Controlling (QoL)
 > Помогает со всем, что связано с биндами в игре
