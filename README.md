@@ -164,6 +164,9 @@ Dungeons and Taverns (Worldgen)
 Dungeons+ (Content)
 > Добавляет несколько новых данжей, которые основаны на биоме, в котором находятся, очень гармонично вписываются в игру
 
+Dungeons Weaponry (Content)
+> Переносит в игру всех новых мобов и оружия из minecraft: dungeons
+
 Durability tooltip (QoL)
 > Видно прочность инструмента в числах
 
