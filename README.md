@@ -184,6 +184,9 @@ DashLoader
 Delightful burgers (Content)
 > Крафт бургеров
 
+Deep Origins Overlays (Resourcepack)
+> Добавляет плавные переходы между блоками травы, камня и некоторых блоков древесины и каменных кирпичей
+
 Disable Double Tap to Sprint (QoL)
 > Убирает надоедливую функцию бега на двойное нажатие W, в игре на это есть кейбинд
 
