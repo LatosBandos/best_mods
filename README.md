@@ -51,6 +51,9 @@ Auto HUD (Visual)
 
 > *примечание*: несовместим с ArmorPoints++
 
+Async Particles (Optimization)
+> Позволяет рендерить частицы в несколько потоков, что многократно повышает производительность, особенно с модами на доп частицы
+
 ## (B)
 
 Berries and cherries (Visual, Content)
