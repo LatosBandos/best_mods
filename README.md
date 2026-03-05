@@ -1,5 +1,9 @@
 # Моды
 
+
+<details>
+  <summary>## (A)</summary>
+</details>
 ## (A)
 
 Antique Atlas 4
