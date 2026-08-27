@@ -913,6 +913,9 @@ Spelunkery (Content)
 Spider Caves (Content)
 > Добавляет биом паучьих пещер из игры Terraria
 
+Spider Overhaul (Content)
+> Схож с модов Creeper Overhaul по смыслу, добавляет разновидности пауков для разных биомов, каждый из них обладает своими особыми умениями, например быстро плавать или при смерти взрываться шипами
+
 Spooky paintings (Visual, Content)
 > 27 новых картин (страшно из 10)
 
